@@ -405,6 +405,10 @@ main {
   display: none;
 }
 
+.new-link {
+  color: var(--orange-yellow-crayola);
+}
+
 .sidebar-info_more {
   opacity: 0;
   visibility: hidden;
